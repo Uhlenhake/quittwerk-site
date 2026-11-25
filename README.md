@@ -7,6 +7,7 @@ Live: https://uhlenhake.github.io/quittwerk-site/
 | Seite | URL |
 |---|---|
 | Start (Marketing) | https://uhlenhake.github.io/quittwerk-site/ |
+| E-Rechnung (Ratgeber) | https://uhlenhake.github.io/quittwerk-site/e-rechnung |
 | Support | https://uhlenhake.github.io/quittwerk-site/support |
 | Datenschutz | https://uhlenhake.github.io/quittwerk-site/datenschutz |
 | Nutzungsbedingungen | https://uhlenhake.github.io/quittwerk-site/nutzungsbedingungen |

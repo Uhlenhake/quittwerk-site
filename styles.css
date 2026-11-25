@@ -53,3 +53,10 @@ footer.site { padding: 36px 0 48px; color: var(--muted); font-size: 0.9rem; bord
 footer.site nav { display: flex; flex-wrap: wrap; gap: 14px; margin-bottom: 12px; }
 footer.site a { color: var(--muted); }
 .legal-note { font-size: 0.8rem; color: var(--muted); margin-top: 16px; }
+
+.callout { background: var(--primary-soft); border-radius: 14px; padding: 14px 18px; margin: 0 0 28px; }
+.callout p { margin: 0; color: var(--text); }
+.sources { padding-left: 1.2em; }
+.sources li { margin: 0 0 6px; }
+.prose .lead { font-size: 1.15rem; color: var(--muted); margin: 0 0 22px; }
+.prose .pill { margin-bottom: 8px; }
